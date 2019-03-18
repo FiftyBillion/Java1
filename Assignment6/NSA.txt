@@ -1,0 +1,67 @@
+File: 2067029912_Lol.vmg no found
+
+E:\CS141 Java\Assignment6\4251207655_Did.vmg
+
+4251207655_Did.vmg
+Caller Name 1: Norquist;John
+Caller Name 2: John Norquist
+Caller Number 1: 425-120-7655
+Caller Number 2: unknown
+Date:2013/08/08
+Time: 3:31:55
+Message: :Did you just call me? I said hello about 5 times and then the call was gone. Is everthing ok?
+
+File: 4251207655_Does.vmg no found
+
+File: 4251805239_The.vmg no found
+
+File: 4253063382_On.vmg no found
+
+File: 4251805239_after.vmg no found
+
+File: 2067029912_You.vmg no found
+
+E:\CS141 Java\Assignment6\2067029912_I.vmg
+
+2067029912_I.vmg
+Caller Name 1: ;Eric
+Caller Name 2: Eric
+Caller Number 1: 206-702-9912
+Caller Number 2: 425-768-6746
+Date:2012/01/28
+Time: 7:29:46
+Message: unknown
+
+File: 2067029912_It.vmg no found
+
+File: 4254304722_Almos.vmg no found
+
+File: 4254304722_About.vmg no found
+
+E:\CS141 Java\Assignment6\4255020237_Did.vmg
+
+4255020237_Did.vmg
+Caller Name 1: Davey
+Caller Name 2: Davey
+Caller Number 1: 425-502-0237
+Caller Number 2: unknown
+Date:2012/01/28
+Time: 7:30:05
+Message: :Did Jessica leave? She is not home yet.
+
+File: 4255020237_Dont.vmg no found
+
+File: 4251805239_About.vmg no found
+
+File: 4254304722_Can.vmg no found
+
+File: 2067029912_Sure.vmg no found
+
+File: 2067029912_Dont.vmg no found
+
+File: 4255020237_About.vmg no found
+
+File: 4255020237_We.vmg no found
+
+File:  no found
+
